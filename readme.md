@@ -70,3 +70,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/9504887a-5ef5-4653-b899-d6a609506edc/deploy-status)](https://app.netlify.com/sites/vigilant-agnesi-8f9e52/deploys)
+
